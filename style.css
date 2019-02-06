@@ -200,4 +200,8 @@ h1, h2 {
     .btn.btn-wiecej {
         width: 100%;
     }
+    .btn.btn-left {
+        width: 100%;
+        text-align: center;
+    }
 }
